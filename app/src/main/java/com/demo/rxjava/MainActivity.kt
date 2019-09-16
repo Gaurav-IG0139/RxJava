@@ -1,4 +1,4 @@
-package kfh.takaful.rxjavademo
+package com.demo.rxjava
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
